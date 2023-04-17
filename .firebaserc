@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-images-c4d5e": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-45674"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-images-c4d5e"
+  }
+}
